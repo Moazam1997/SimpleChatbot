@@ -8,6 +8,7 @@
 	color: #2c2c2c;
 }
 .bubble-container .input-wrap textarea {
+	display: none;
 	width: calc(100% - 20px);
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
 	color: #2c2c2c;
